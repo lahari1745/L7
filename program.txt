@@ -1,0 +1,11 @@
+$ cat b tech program
+#include<stdio.h>
+void main()
+{
+int n;
+print("enter the value of n:");
+if (n==1)
+{
+printf("b.tech(cse)");
+}
+}
